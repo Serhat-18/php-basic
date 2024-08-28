@@ -5,4 +5,4 @@ header("Location: error.php");
 exit();
 ?>
 
-<p> Siktir ediliyor... ❗❗❗🛑🛑 (Srht Guard 🟢)</p>
+<p> Erişim Engellendi Yönlendiriliyor... ❗❗❗🛑🛑</p>
